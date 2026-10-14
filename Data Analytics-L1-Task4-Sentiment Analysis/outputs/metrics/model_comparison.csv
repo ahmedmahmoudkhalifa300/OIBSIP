@@ -1,0 +1,5 @@
+Model,CV_F1_Weighted,CV_F1_Std,Test_Accuracy,Test_F1_Weighted,Test_Precision_Weighted,Test_Recall_Weighted,Test_F1_Macro,Test_Precision_Macro,Test_Recall_Macro
+Linear SVC (Calibrated),0.8636,0.0243,0.8571,0.8467,0.8533,0.8571,0.774,0.8387,0.7497
+Logistic Regression (Balanced),0.8458,0.0355,0.8571,0.8467,0.8533,0.8571,0.774,0.8387,0.7497
+Random Forest (Balanced),0.7236,0.0314,0.7823,0.7572,0.7996,0.7823,0.6558,0.8248,0.6117
+Multinomial Naive Bayes,0.5963,0.0355,0.7347,0.6759,0.8149,0.7347,0.5134,0.8992,0.5
