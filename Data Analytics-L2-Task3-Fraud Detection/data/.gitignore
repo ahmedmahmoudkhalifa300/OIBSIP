@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environment variables & secrets
+.env
+*.token
+kaggle.json
+
+# Data files (Do not commit large raw datasets)
+data/raw/*.csv
+data/raw/*.zip
+*.csv
+
+# Model artifacts
+outputs/models/*.joblib
+outputs/models/*.pkl
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS Specific
+.DS_Store
+Thumbs.db
