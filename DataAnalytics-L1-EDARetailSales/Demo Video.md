@@ -2,7 +2,7 @@
 
 You can watch the project demonstration video using the following link:
 
-[Watch the Exploratory Data Analysis on Retail Sales Data Demo Video](ضع_رابط_الفيديو_هنا)
+[Watch the Exploratory Data Analysis on Retail Sales Data Demo Video](https://drive.google.com/file/d/1ZaVkyeCbYCYPf5G5gy1F_N6Op_dvfnAR/view?usp=sharing)
 
 ## Video Contents
 
